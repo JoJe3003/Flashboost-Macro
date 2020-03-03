@@ -1,4 +1,4 @@
-# FlashMacro - By Pudding
+# FlashMacro
 
 A Flashboost macro complete with GUI, made for cs:s Trikz.
 
