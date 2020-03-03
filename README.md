@@ -1,5 +1,7 @@
 # Flashboost Macro
 
+![Flashboost-Macro-Image](FlashMacroIcon.png)
+
 A Flashboost macro complete with GUI, made for cs:s Trikz.
 
 <h3> Installation </h3/>
