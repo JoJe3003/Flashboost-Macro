@@ -1,12 +1,20 @@
 # Flashboost Macro
 
+<img src="FlashMacroIcon.png" alt="Flashboost Macro Image" width="300" height="300" align="right">
+
 A Flashboost macro complete with GUI, made for cs:s Trikz.
 
-<h3> Installation </h3/>
+<h3> Installation </h3>
 
  - Simply download the latest PFM folder, and extract it to anywhere on your computer. 
  - Double click the "FlashMacro.exe" file to launch the macro.
  
+<h3> How does it work? </h3/>
+ 
+ - When the macro is activatied, it will change both left and right click on your mouse. 
+ - Left click will launch the Jumpboost macro, which immedeately releases left click after you press it, and then presses the spacebar after the "Flashdelay" is completed.
+ - Right click works as your left click would have without the macro, this way you can still throw flashbangs without jumping.
+
 The software doesn't alter any gamefiles, and is completely separate from any other applications.
 
 <b>
