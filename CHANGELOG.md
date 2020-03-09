@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
  
 ### Fixed
  - Jumpboost (left mouse click) doesn't stop bunnyhopping when holding space.
+ - Added option for macro launch on mouse release instead of press.
  
 ## [1.1] - 02.03.2020
  
