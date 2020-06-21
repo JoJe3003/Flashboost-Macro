@@ -16,7 +16,7 @@ A Flashboost macro complete with GUI, made for cs:s Trikz.
  - Left click will launch the Jumpboost macro, which immedeately releases left click after you press it, and then presses the spacebar after the "Flashdelay" is completed.
  - Right click works as your left click would have without the macro, this way you can still throw flashbangs without jumping.
 
-<h3> Anti-Virus </h3>
+<h3> Antivirus </h3>
 
  - Due to the nature of how this macro works, most antiviruses will recognize it as a keylogger. This is because the macro is listening for mouse click inputs. You should allow/whitelist the exe file in your antivirus, so that it does not remove the macro, as this is a false positive.
 
