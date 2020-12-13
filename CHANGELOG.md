@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+ ## [1.3] - 12.12.2020
+ 
+### Fixed
+ - Increased range of delay from 70 - 150 ms.
+ - Added option to change between Release and Push mode by pressing INSERT key.
+
  ## [1.2] - 03.03.2020
  
 ### Fixed
