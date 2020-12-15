@@ -7,7 +7,6 @@ A Flashboost macro complete with GUI, made for cs:s Trikz.
 <h3> Installation </h3>
 
  - Download the latest PFM folder, and extract it to anywhere on your computer.
- - If you want the version which launches the macro when you release left mouse click, download "PFM - On Mouse Release"
  - Double click the "FlashMacro.exe" file to launch the macro.
  
 <h3> How does it work? </h3/>
