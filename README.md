@@ -1,6 +1,6 @@
 # Flashboost Macro
 
-<img src="FlashMacroIcon.png" alt="Flashboost Macro Image" width="300" height="300" align="right">
+<img src="FlashMacroIcon.png" alt="Flashboost Macro Image" width="320" height="320" align="right">
 
 A Flashboost macro complete with GUI, made for cs:s Trikz.
 
